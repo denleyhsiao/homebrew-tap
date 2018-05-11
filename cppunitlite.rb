@@ -4,8 +4,8 @@
 class Cppunitlite < Formula
   desc "C plus plus unit test framework"
   homepage "https://github.com/denleyhsiao/CppUnitLite/releases"
-  url "https://github.com/denleyhsiao/CppUnitLite/archive/1.2.1.tar.gz"
-  sha256 "1381de9756536892527957e03b01a4fee7031aef8fc7d11cefc5ce0c8225a6c4"
+  url "https://github.com/denleyhsiao/CppUnitLite/archive/v0.1.tar.gz"
+  sha256 "5f4fae633ad46314df62219622a25a77841396d6b37af760672b68c0335ad77a"
   depends_on "cmake" => :build
 
   def install
